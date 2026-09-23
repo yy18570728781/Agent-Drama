@@ -48,6 +48,40 @@ Agent Drama 不是只用 GitHub 做下载入口。我们也公开了 AI 漫剧�
 
 ---
 
+## 🖼️ 产品截图
+
+以下截图来自 Agent Drama 官网工作台登录态，展示的是用户侧创作流程，不包含管理后台页面。
+
+### 官网工作台首页
+
+![Agent Drama 官网工作台首页](./screenshots/01-home-login-overview.png)
+
+### 创作广场与公开作品
+
+![Agent Drama 创作广场](./screenshots/02-creation-gallery-more.png)
+
+### 无限画布节点连线
+
+![Agent Drama 无限画布节点连线](./screenshots/03-smart-canvas-nodes-connections.png)
+
+### 无限画布任务队列
+
+![Agent Drama 无限画布任务队列](./screenshots/04-smart-canvas-task-queue.png)
+
+### 本地 ComfyUI、Codex 和飞书教程公告
+
+![Agent Drama 本地 ComfyUI Codex 飞书教程公告](./screenshots/05-announcement-comfyui-codex-feishu.png)
+
+### 资源库
+
+![Agent Drama 资源库](./screenshots/06-resource-library.png)
+
+### 生成任务记录
+
+![Agent Drama 生成任务记录](./screenshots/07-task-records.png)
+
+---
+
 ## 🧩 Agent Drama 的无限画布是什么？
 
 Agent Drama 的“无限画布”不是普通白板，而是 AI 短剧和 AI 漫剧制作流程里的创作中枢。

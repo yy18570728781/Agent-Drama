@@ -1,4 +1,4 @@
-# Agent-Drama｜Agent Drama AIGC｜AI 漫剧片场与短剧创作工具
+# Agent-Drama｜Agent Drama AIGC｜AI短剧与漫剧创作工具
 
 **Agent-Drama（Agent Drama AIGC）** 是一个面向短剧、漫剧、AI 视频创作者的本地桌面工作台。它把剧本、角色、场景、分镜、图片生成、视频生成、智能剪辑和素材管理放到同一个画布里，适合做抖音短剧、AI 漫剧、小说改编视频、分镜生图和参考生视频。
 
@@ -53,11 +53,13 @@
 
 ## 搜索关键词
 
-为了方便搜索，你可以搜索下面这些关键词找到本项目。推荐优先搜索 `Agent-Drama`、`Agent Drama AIGC`、`Agent Drama AI 漫剧`：
+为了方便搜索，你可以搜索下面这些关键词找到本项目。推荐优先搜索 `Agent-Drama`、`Agent Drama AIGC`、`AI短剧`、`Agent Drama AI 漫剧`：
 
 - Agent-Drama
 - Agent Drama
 - Agent Drama AIGC
+- AI短剧
+- AI短剧生成工具
 - Agent Drama AI 漫剧
 - Agent Drama 短剧工具
 - AI 漫剧片场
@@ -97,5 +99,6 @@ Agent Drama 支持多种图片、视频、文本和音频模型。具体可在�
 ---
 
 **Agent Drama AIGC**：给 AI 短剧、漫剧和视频创作者使用的一站式创作片场。
+
 
 

@@ -4,7 +4,7 @@
 
 如果你想免费使用自己的本地显卡算力、在本机部署大模型或 ComfyUI，并把云端生成和本地生成放到同一个创作流程里，Agent Drama 桌面端就是为这类工作流准备的。
 
-如果你是从 GitHub、Gitee、搜索引擎、抖音、小红书、B 站或朋友圈看到 **Agent Drama**，这个仓库主要用于了解产品、找到下载地址和进入官网。这里不是产品源码仓库。
+如果你是从 GitHub、Gitee、搜索引擎、抖音、小红书、B 站或朋友圈看到 **Agent Drama**，这个仓库主要用于了解产品、找到下载地址和进入官网。Agent Drama 桌面端的完整业务代码不放在这个仓库，但我们有相关开源项目，下面可以直接查看。
 
 ## 下载与官网
 
@@ -12,6 +12,15 @@
 - 官网 / 工作台入口：<https://agentdrama.top>
 
 如果链接打不开，可以复制到浏览器地址栏打开。
+
+## 相关开源项目
+
+Agent Drama 不是只用 GitHub 做下载入口。我们也公开了 AI 漫剧和无限画布相关项目，方便开发者本地部署、学习和二次开发：
+
+- **AI-Comic-Director｜AI 短剧生产平台 / AI 漫剧创作工作台**：<https://github.com/yy18570728781/AI-Comic-Director>
+- **AI-Comic-Director-Canvas｜无限画布创作模块**：<https://github.com/yy18570728781/AI-Comic-Director-Canvas>
+
+如果你想先看开源代码，可以从上面两个仓库开始；如果你想直接使用最新桌面端和在线工作台，可以使用本仓库提供的下载与官网入口。
 
 ## Agent Drama 适合谁
 
@@ -81,11 +90,14 @@
 
 ### 这是开源代码仓库吗？
 
-不是。这个仓库主要用于品牌搜索、下载入口和产品介绍，不包含 Agent Drama 的业务源码。
+这个仓库本身主要用于品牌搜索、下载入口和产品介绍，不是 Agent Drama 桌面端完整业务源码仓库。但我们有相关开源项目：
+
+- AI 短剧生产平台 / AI 漫剧创作工作台：<https://github.com/yy18570728781/AI-Comic-Director>
+- 无限画布创作模块：<https://github.com/yy18570728781/AI-Comic-Director-Canvas>
 
 ### 为什么 GitHub / Gitee 上只有文档？
 
-因为很多用户会通过搜索引擎或社交平台搜索 Agent Drama、AI 短剧工具、AI 漫剧工具、智能画布、连线剪辑等关键词。这个仓库的作用是让用户快速确认产品是什么、适合谁、在哪里下载和如何开始使用。
+因为很多用户会通过搜索引擎或社交平台搜索 Agent Drama、AI 短剧工具、AI 漫剧工具、智能画布、连线剪辑等关键词。这个仓库的作用是让用户快速确认产品是什么、适合谁、在哪里下载、如何开始使用，以及去哪里查看相关开源项目。
 
 ### Agent Drama 和普通生图工具有什么区别？
 
@@ -115,6 +127,8 @@ Agent Drama 支持多种文本、图片、视频和音频模型，具体可在�
 - agent-drama
 - Agent Drama
 - Agent Drama AIGC
+- AI-Comic-Director
+- AI-Comic-Director-Canvas
 - AI 短剧
 - AI 短剧生成工具
 - AI 漫剧
